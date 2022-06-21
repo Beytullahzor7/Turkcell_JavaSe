@@ -11,7 +11,7 @@ public class _12_Random {
 		
 		// Class duzeyinde (Object)
 		Random random = new Random();
-		int randomClass = random.nextInt(4) + 1;
+		int randomClass = random.nextInt(3) + 1;
 		System.out.println(randomClass);
 	}
 	
