@@ -25,7 +25,8 @@ public class _23_VizeFinal {
 		
 		input.close();
 		
-		double average = (firstNote + secondNote) / 2;
+		double average = (firstNote * 0.4) + (secondNote * 0.6);
+		System.out.println(average);
 		
 		if (average < 50) {
 			System.out.println("Failed...");
