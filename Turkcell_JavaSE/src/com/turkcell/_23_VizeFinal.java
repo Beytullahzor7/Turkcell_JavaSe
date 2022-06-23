@@ -25,6 +25,10 @@ public class _23_VizeFinal {
 		
 		input.close();
 		
+		if (firstNote == 0 || secondNote == 0) {
+			throw new IllegalArgumentException();
+		}
+		
 		double average = (firstNote * 0.4) + (secondNote * 0.6);
 		System.out.println(average);
 		
