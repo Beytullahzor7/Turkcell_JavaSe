@@ -10,13 +10,14 @@ public class _32_StringReverse {
 		System.out.print("Please input your text : ");
 		String userInput = input.nextLine();
 		
-		System.out.println("Reversed String: " + getReverse(userInput));
+		// System.out.println("Reversed String: " + getReverse(userInput));
 		System.out.println("Reversed String: " + getReverse2(userInput));
 		
 	}
 	
 	public static String getReverse(String input) {
 		StringBuilder builder = new StringBuilder();
+		
 		String reverse = builder.append(input).reverse().toString();
 		return reverse;
 	}
