@@ -16,9 +16,4 @@ public class _60_Thread {
 	// notify() = ilgili threadin uyanmasini isteriz
 	// notifyAll() = Butun threadleri ayaga kaldirir
 	
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-	}
-	
 }
