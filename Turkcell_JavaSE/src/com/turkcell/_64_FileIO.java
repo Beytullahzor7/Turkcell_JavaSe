@@ -19,5 +19,5 @@ public class _64_FileIO {
 	// Windows'ta ==> \
 	// Linux'ta ==> /
 	
-	public static final String MY_PATH = "C:\\turkcell\\data.txt";
+	public static final String MY_PATH = "C:\\Javakamp\\Turkcell_JavaSe\\data.txt";
 }

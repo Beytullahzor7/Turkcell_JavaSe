@@ -10,6 +10,7 @@ public class _64_FileIOPermission {
 	
 	public static void main(String[] args) {
 		File file = new File(_64_FileIO.MY_PATH);
+		System.out.println(file.getAbsolutePath());
 		
 		// String[] permissionRoles = { "ADMIN", "WRITER", "USER" };
 		// if(dizileye permissionRoles[1] == "ADMIN")
