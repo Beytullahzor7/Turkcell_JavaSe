@@ -13,6 +13,10 @@ public class Main {
 		System.out.println(msi1);
 		msi1.commonMethod();
 		
+		Computer monster1 = new Monster("monster-cpu", "monster-ram", "monster-smartMainBoard", "monster-port", 15000);
+		System.out.println(monster1);
+		monster1.commonMethod();
+		
 	}
 	
 }

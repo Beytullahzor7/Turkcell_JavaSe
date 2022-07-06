@@ -17,6 +17,13 @@ public class Main {
 		msi1.commonMethod();
 		msi1.govdesizMethod("MSI Govdesiz");
 		
+		System.out.println("------------------------");
+		
+		Computer lenovo1 = new Lenovo("lenovo-cpu", "lenovo-ram", "lenovo-anakart", "lenovo-port", "lenovo-modal");
+		System.out.println(lenovo1);
+		lenovo1.commonMethod();
+		lenovo1.govdesizMethod("Lenovo Govdesiz");
+		
 	}
 	
 }
