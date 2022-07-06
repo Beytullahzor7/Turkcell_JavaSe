@@ -4,8 +4,8 @@ public class _68_OOP {
 	
 	/*
 	 * OOP: Object Oriented Programming
-	 * Obje(nesne) nedir ? Tan�mlayabildi�imiz �zellikleri olan her�eydir.
-	 * Java 100 % OOP de�ildir (Primitive t�rden dolay�)
+	 * Obje(nesne) nedir ? Tan�mlayabildi�imiz �zellikleri olan her�eydir.
+	 * Java 100 % OOP de�ildir (Primitive t�rden dolay�)
 	 * ----------------------------------------------------------------------------
 	 * Nesne : Ozelligi olan her seydir
 	 * Class : Nesneler toplulugudur
@@ -80,6 +80,29 @@ public class _68_OOP {
 	 * POJO : Plain Old Java Object : Sadece nesne degiskeni ve getter setter icerir
 	 * CDI : Spring Framework(@Inject) SpringBoot(@Autowired)
 	 * ----------------------------------------------------------------------------
+	 * UML diagram (Unifield Modeling Language)
+	 * 1995 standart bir dil oluşturalım. bunun adına UML diyelim
+	 * UML: Bir modelleme dilidir. standartlaştırılmış kalıplar bize sunar
+	 * Büyük resmi görmemize olanak sağlar.
+	 * Yazılımıclar ve diğer deparmandan kişilerin basit , kolay, bir şekilde
+	 * anlaşabilmesini sağlar.
+	 * Karmaşıklık basitleştirilmesini sağlamak
+	 * ----------------------------------------------------------------------------
+	 * UML Çeşitleri:
+	 * 1-) Yapı Diagram (database modelleme vs)
+	 * 2-) Davranış modelleme (Başlangıç-Bitiş göstermek)
+	 * ----------------------------------------------------------------------------
+	 * UML class
+	 * 1-) CLASS
+	 * 2-) DEĞİŞKENLER
+	 * 3-) METOTLAR
+	 * ----------------------------------------------------------------------------
+	 * public (+)
+	 * private (-)
+	 * protected (#)
+	 * static (__)
+	 * public void deneme(int sayi1,int sayi2) {} ==>
+	 * +deneme(sayi1:number,sayi:number):void
 	 */
 	
 }

@@ -24,6 +24,22 @@ public class _68_OOP_x2_BEAN implements Serializable {
 		this.surname = surname;
 	}
 	
+	public String getName() {
+		return name;
+	}
+	
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	public String getSurname() {
+		return surname;
+	}
+	
+	public void setSurname(String surname) {
+		this.surname = surname;
+	}
+	
 	@Override
 	public String toString() {
 		return "_68_OOP_x2_BEAN [name=" + name + ", surname=" + surname + "]";
