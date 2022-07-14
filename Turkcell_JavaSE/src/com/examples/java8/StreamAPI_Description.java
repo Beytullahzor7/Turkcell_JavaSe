@@ -3,7 +3,19 @@ package com.examples.java8;
 import java.util.List;
 import java.util.function.Predicate;
 
-public class StreamAPI {
+/*
+ * Java 8 ile gelmis fonksiyonel bir programlamadir
+ * Verilerle hizli ve efektif olarak islem yapmamiza olanak saglar
+ * Veri yapilari degildir bundan dolayi var olan kaynagi degistirmez
+ * Java.util.stream kutuphanesinden gelir
+ * BaseStream Interfacesinden turer
+ * Cesitleri : intStream,LongStream,DoubleStream,Stream
+ * Stream : 2 grup calisma sitili vardir
+ * 1) Sequential : Senkrondur yani ayni anda sadece 1
+ * 2-) Paralel : Asenkrondur yani ayni anda birden fazla islem yapabilir.)
+ */
+
+public class StreamAPI_Description {
 	public static void main(String[] args) {
 		basicArrayExample();
 		basicStreamExample();

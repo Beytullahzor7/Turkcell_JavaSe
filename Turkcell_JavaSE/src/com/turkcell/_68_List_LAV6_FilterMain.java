@@ -18,5 +18,10 @@ public class _68_List_LAV6_FilterMain {
 				System.out.println(temp);
 			}
 		}
+		
+		System.out.println("--------------------------");
+		
+		// Stream API
+		list.stream().filter(i -> i.getPrice() >= 200).forEach(System.out::println);
 	}
 }

@@ -2,28 +2,28 @@ package com.turkcell;
 
 public class _69_OOP_Inheritance {
 	
-	// Kalýtým(Miras)
-	// Üst atadan aldýðýmýz özelliklere biz kalýtým diyoruz.
-	// Sýnýflarýn birbirinden türemesine denir.
+	// Kalï¿½tï¿½m(Miras)
+	// ï¿½st atadan aldï¿½ï¿½ï¿½mï¿½z ï¿½zelliklere biz kalï¿½tï¿½m diyoruz.
+	// Sï¿½nï¿½flarï¿½n birbirinden tï¿½remesine denir.
 	
-	// Kalýtým:
+	// Kalï¿½tï¿½m:
 	// Java single inheritance'dir.
-	// Kod tekrarýný önlemek
-	// temiz kod yazmamýza olanak saðlar.
-	// büyük projelerde hýzlýca yol almak
-	// esnelik saðlar
-	// Class yönetimini rahatlatýr
-	// Maliyetleri azaltýr. (bakým)
+	// Kod tekrarï¿½nï¿½ ï¿½nlemek
+	// temiz kod yazmamï¿½za olanak saï¿½lar.
+	// bï¿½yï¿½k projelerde hï¿½zlï¿½ca yol almak
+	// esnelik saï¿½lar
+	// Class yï¿½netimini rahatlatï¿½r
+	// Maliyetleri azaltï¿½r. (bakï¿½m)
 	
 	// SuperClass
-	// Bir sýnýf baþka bir sýnýftan türüyorsa üst ata yani parent özelliklere
+	// Bir sï¿½nï¿½f baï¿½ka bir sï¿½nï¿½ftan tï¿½rï¿½yorsa ï¿½st ata yani parent ï¿½zelliklere
 	// superClass
-	// super.nesneDeðiþkeni==> deðiþkenler
-	// super.metotEriþim => MEtot
+	// super.nesneDeï¿½iï¿½keni==> deï¿½iï¿½kenler
+	// super.metotEriï¿½im => MEtot
 	// super() ==> Constructor
 	//
 	
 	// SubClass
-	// Bir sýnýf baþka bir sýnýftan türüyorsa alt yani chield classlara subClass
+	// Bir sï¿½nï¿½f baï¿½ka bir sï¿½nï¿½ftan tï¿½rï¿½yorsa alt yani chield classlara subClass
 	
 }

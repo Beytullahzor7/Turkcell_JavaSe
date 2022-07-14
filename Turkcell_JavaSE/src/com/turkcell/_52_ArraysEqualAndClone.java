@@ -12,9 +12,8 @@ public class _52_ArraysEqualAndClone {
 		if (Arrays.equals(dizi1, dizi2)) {
 			System.out.println("Birebir aynidir");
 		} else {
-			System.out.println("Farklý elemanda dizilerdir");
+			System.out.println("Farklï¿½ elemanda dizilerdir");
 		}
-		
 		
 	}
 }
